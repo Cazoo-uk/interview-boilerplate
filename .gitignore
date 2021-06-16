@@ -1,1 +1,5 @@
-node_modules 
+javascript-typescript/node_modules 
+csharp/App/bin
+csharp/App/obj
+csharp/AppTests/bin
+csharp/AppTests/obj
