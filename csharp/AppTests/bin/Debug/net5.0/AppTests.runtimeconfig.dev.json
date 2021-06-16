@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cazoo/.dotnet/store/|arch|/|tfm|",
+      "/home/cazoo/.nuget/packages"
+    ]
+  }
+}
